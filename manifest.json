@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "GTmetrix Analyzer Plugin",
-  "description": "This extension will analyze a page using GTmetrix",
+  "name": "Basic Root _give your extension name here",
+  "description": "write obivious",
   "version": "1.0",
 
   "browser_action": {
